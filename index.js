@@ -3,3 +3,7 @@ var recipes = {
   chocolate : '3',
   butter : '200'
 }
+
+function updateObjectWithKeyAndValue(object, key, value){
+  
+}
